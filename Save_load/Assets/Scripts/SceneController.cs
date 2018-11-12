@@ -20,7 +20,7 @@ public class SceneController : MonoBehaviour {
             sceneControl = this;
             try
             {
-
+                LoadScene();
             }
             catch
             {
